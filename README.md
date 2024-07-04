@@ -10,4 +10,4 @@ toml = "0.8"
 src/output.rs
 Original file line number	Diff line number	Diff line change
 
----------------------
+----------
